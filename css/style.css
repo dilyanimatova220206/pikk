@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+.header-nav a{
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: -0.468947px;
+    color: #19191B;
+    margin: 0 20px;
+}
+.header-nav a:hover{
+    border-bottom: 2px solid #545404;
+    color: black;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-btn{
+    width: 120px;
+    height: 40px;
+    background: #FF7143;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    background: darkblue;
+}
+#header{
+    margin: 20px 0 0 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.hero-title{
+    width: 462px;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 77px;
+    letter-spacing: -2.50105px;
+    color: #19191B;
+}
+.hero-subtitle{
+    width: 459px;
+    margin: 20px 0;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+    color: #696871;
+}
+.hero-btn{
+    background: #5454D4;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    margin: 0 20px 0 0;
+}
+.hero-icon a{
+    color: black;
+    font-size: 25px;
+}
+.hero-icon{
+    display: flex;
+    align-items: center;
+}
+.hero-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-images{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+}
+#hero  {
+    margin: 30px 0;
+}
+.about-text h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 57px;
+    color: #19191B;
+}
+.about-text p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+    color: #696871;
+    width: 459px;
+    margin: 20px 0;
+}
+.about-text button{
+    background: none;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    color: #5454D4;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#about {
+    margin: 50px 0 0 0;
+}
+.product-text h1{
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: -1.56316px;
+    color: #19191B;
+}
+.product-text p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+    color: #696871;
+    width: 459px;
+    margin: 20px 0;
+}
+.product-text button{
+    background: none;
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.531474px;
+    color: #5454D4;;
+}
+.product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#product{
+    margin: 50px 0 0 0;
+}
+.event-text h1{
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: -0.750316px;
+    color: #19191B;
+}
+.event-text p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.500211px;
+    color: #696871;
+}
+.event{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+.more h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+}
+.more-btn button{
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.500211px;
+    color: #FFFFFF;
+     background: #5454D4;
+    border-radius: 10px 0 0 10px;;
+}
+.more{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.more{
+    margin: 100px 0;
+}
+.more button{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.500211px;
+    color: #FFFFFF;
+    background: #5454D4;
+
+}
+.more button{
+    background: #1111d2;
+    border-radius: 10px;
+}
+.mix-text{
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.562737px;
+    color: #696871;
+    width: 115px;
+    height: 150px;
+}
+.mix h1{
+    font-weight: 700;
+    font-size: 60px;
+    letter-spacing: -1.03448px;
+    color: #1D293F;
+}
+
+
+
+
+
+
+
